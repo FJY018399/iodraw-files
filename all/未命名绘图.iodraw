@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="1o5arxbA9DCXNe-2mdFO-18" value="处理阶段" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="30" y="-170" width="495" height="1164" as="geometry" />
+          <mxGeometry x="50" y="-200" width="495" height="1164" as="geometry" />
         </mxCell>
         <mxCell id="1o5arxbA9DCXNe-2mdFO-19" value="浏览器刷新周期" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1o5arxbA9DCXNe-2mdFO-18">
           <mxGeometry x="245" y="46" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="1o5arxbA9DCXNe-2mdFO-20" value="requestAnimationFrame触发" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1o5arxbA9DCXNe-2mdFO-18">
-          <mxGeometry x="43" y="220" width="257" height="204" as="geometry" />
+          <mxGeometry x="-10" y="270" width="310" height="154" as="geometry" />
         </mxCell>
         <mxCell id="1o5arxbA9DCXNe-2mdFO-21" value="检查组件是否就绪" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1o5arxbA9DCXNe-2mdFO-18">
           <mxGeometry x="157" y="499" width="188" height="49" as="geometry" />
@@ -38,15 +38,6 @@
         <mxCell id="1o5arxbA9DCXNe-2mdFO-27" value="就绪" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1o5arxbA9DCXNe-2mdFO-18" source="1o5arxbA9DCXNe-2mdFO-21" target="1o5arxbA9DCXNe-2mdFO-22">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="1o5arxbA9DCXNe-2mdFO-28" value="未就绪" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=0;entryX=0.56;entryY=0.99;rounded=0;" edge="1" parent="1o5arxbA9DCXNe-2mdFO-18" source="1o5arxbA9DCXNe-2mdFO-21" target="1o5arxbA9DCXNe-2mdFO-19">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="358" y="461" />
-              <mxPoint x="320" y="380" />
-              <mxPoint x="340" y="300" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="1o5arxbA9DCXNe-2mdFO-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1o5arxbA9DCXNe-2mdFO-18" source="1o5arxbA9DCXNe-2mdFO-22" target="1o5arxbA9DCXNe-2mdFO-23">
