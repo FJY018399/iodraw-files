@@ -20,7 +20,7 @@
           <mxGeometry x="162" y="646" width="177" height="177" as="geometry" />
         </mxCell>
         <mxCell id="1o5arxbA9DCXNe-2mdFO-23" value="渲染场景" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1o5arxbA9DCXNe-2mdFO-18">
-          <mxGeometry x="194" y="898" width="113" height="113" as="geometry" />
+          <mxGeometry x="194" y="898" width="116" height="62" as="geometry" />
         </mxCell>
         <mxCell id="1o5arxbA9DCXNe-2mdFO-24" value="计算FPS" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1o5arxbA9DCXNe-2mdFO-18">
           <mxGeometry x="257" y="1086" width="117" height="49" as="geometry" />
