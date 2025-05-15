@@ -118,6 +118,65 @@
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-36" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;初始化完成&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="243" y="1520" width="132" height="64" as="geometry" />
         </mxCell>
+        <mxCell id="OLTbV2rgcrgd2kZf_-Um-48" value="视图组件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="254" y="1605" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OLTbV2rgcrgd2kZf_-Um-49" value="RESTful API接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="1704" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OLTbV2rgcrgd2kZf_-Um-50" value="状态管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="254" y="1704" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OLTbV2rgcrgd2kZf_-Um-51" value="API请求模块" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="242" y="1803" width="148" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OLTbV2rgcrgd2kZf_-Um-52" value="建筑数据" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="663" y="1605" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OLTbV2rgcrgd2kZf_-Um-53" value="场景配置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="663" y="1704" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OLTbV2rgcrgd2kZf_-Um-54" value="用户权限" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="663" y="1803" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="OLTbV2rgcrgd2kZf_-Um-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.34;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OLTbV2rgcrgd2kZf_-Um-48" target="OLTbV2rgcrgd2kZf_-Um-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="415" y="1629" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLTbV2rgcrgd2kZf_-Um-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OLTbV2rgcrgd2kZf_-Um-50" target="OLTbV2rgcrgd2kZf_-Um-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLTbV2rgcrgd2kZf_-Um-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0.34;entryY=0.99;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OLTbV2rgcrgd2kZf_-Um-51" target="OLTbV2rgcrgd2kZf_-Um-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="415" y="1827" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLTbV2rgcrgd2kZf_-Um-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=-0.01;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OLTbV2rgcrgd2kZf_-Um-49" target="OLTbV2rgcrgd2kZf_-Um-52">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="638" y="1629" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLTbV2rgcrgd2kZf_-Um-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OLTbV2rgcrgd2kZf_-Um-49" target="OLTbV2rgcrgd2kZf_-Um-53">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OLTbV2rgcrgd2kZf_-Um-60" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.66;exitY=0.99;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OLTbV2rgcrgd2kZf_-Um-49" target="OLTbV2rgcrgd2kZf_-Um-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="638" y="1827" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
