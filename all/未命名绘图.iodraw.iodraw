@@ -80,10 +80,7 @@
           <mxGeometry x="435" y="1394" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-16" value="启动渲染循&#xa;    环" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="426" y="1514" width="140" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="OLTbV2rgcrgd2kZf_-Um-17" value="初始化完成" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="256" y="1540" width="140" height="49" as="geometry" />
+          <mxGeometry x="436" y="1514" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-28" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="962" width="126" height="60" as="geometry" />
