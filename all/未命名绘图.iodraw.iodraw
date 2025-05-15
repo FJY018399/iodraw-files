@@ -98,15 +98,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="OLTbV2rgcrgd2kZf_-Um-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FbLDkqJC01L2oR5Jg63y-2" target="FbLDkqJC01L2oR5Jg63y-4">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="780" y="750" as="sourcePoint" />
-            <mxPoint x="830" y="700" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="690" y="780" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
