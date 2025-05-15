@@ -87,7 +87,6 @@
             <Array as="points">
               <mxPoint x="640" y="810" />
               <mxPoint x="610" y="820" />
-              <mxPoint x="310" y="826" />
             </Array>
             <mxPoint x="300" y="850" as="targetPoint" />
             <mxPoint as="offset" />
