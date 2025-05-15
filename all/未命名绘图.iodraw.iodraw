@@ -66,11 +66,14 @@
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-9" value="创建Three.js&#xa;    场景对象" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="635" y="959" width="153" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="OLTbV2rgcrgd2kZf_-Um-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OLTbV2rgcrgd2kZf_-Um-10" target="OLTbV2rgcrgd2kZf_-Um-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-10" value="配置透视相&#xa;    机" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="635" y="1078" width="153" height="67" as="geometry" />
         </mxCell>
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-11" value="初始化&#xa;    WebGL渲染&#xa;    器" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="441" y="1078" width="124" height="72" as="geometry" />
+          <mxGeometry x="434" y="1073" width="124" height="72" as="geometry" />
         </mxCell>
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-12" value="创建射线投&#xa;    射器" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1215" y="959" width="140" height="66" as="geometry" />
@@ -103,7 +106,7 @@
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-21" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0;entryY=0.5;rounded=0;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="758" y="1110" as="sourcePoint" />
+            <mxPoint x="634" y="1117" as="sourcePoint" />
             <mxPoint x="564.9999999999995" y="1112.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
