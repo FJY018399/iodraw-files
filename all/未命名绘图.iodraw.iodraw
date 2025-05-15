@@ -56,7 +56,7 @@
           <mxGeometry x="630" y="790" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-8" value="初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="463" y="959" width="150" height="51" as="geometry" />
+          <mxGeometry x="453" y="957.5" width="147" height="69" as="geometry" />
         </mxCell>
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-9" value="创建Three.js&#xa;    场景对象" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="635" y="959" width="153" height="66" as="geometry" />
@@ -130,8 +130,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OLTbV2rgcrgd2kZf_-Um-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OLTbV2rgcrgd2kZf_-Um-28" target="OLTbV2rgcrgd2kZf_-Um-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-28" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="331" y="1064" width="100" height="60" as="geometry" />
+          <mxGeometry x="305" y="965" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
