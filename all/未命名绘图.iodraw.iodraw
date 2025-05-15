@@ -55,7 +55,7 @@
           <mxGeometry x="335" y="654.5" width="254" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FbLDkqJC01L2oR5Jg63y-4" value="检查组件是否就绪" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="660" y="687" width="182" height="55" as="geometry" />
+          <mxGeometry x="645" y="692" width="182" height="55" as="geometry" />
         </mxCell>
         <mxCell id="FbLDkqJC01L2oR5Jg63y-5" value="更新场景对象状态" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="930" y="631" width="177" height="177" as="geometry" />
