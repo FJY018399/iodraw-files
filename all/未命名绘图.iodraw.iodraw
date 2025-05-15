@@ -61,7 +61,7 @@
           <mxGeometry x="1149" y="664.5" width="252" height="110" as="geometry" />
         </mxCell>
         <mxCell id="FbLDkqJC01L2oR5Jg63y-7" value="计算FPS" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1451" y="775" width="117" height="49" as="geometry" />
+          <mxGeometry x="1500" y="725.5" width="117" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FbLDkqJC01L2oR5Jg63y-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=0.01;entryX=0;entryY=0.5;rounded=0;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FbLDkqJC01L2oR5Jg63y-2" target="FbLDkqJC01L2oR5Jg63y-3" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -102,7 +102,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="FbLDkqJC01L2oR5Jg63y-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.36;exitY=1.01;entryX=0.65;entryY=1.01;rounded=0;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FbLDkqJC01L2oR5Jg63y-7" target="FbLDkqJC01L2oR5Jg63y-2" edge="1">
+        <mxCell id="FbLDkqJC01L2oR5Jg63y-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.65;entryY=1.01;rounded=0;fontSize=18;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FbLDkqJC01L2oR5Jg63y-7" target="FbLDkqJC01L2oR5Jg63y-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1426" y="922" />
