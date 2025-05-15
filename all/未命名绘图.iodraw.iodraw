@@ -138,6 +138,9 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OLTbV2rgcrgd2kZf_-Um-28" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="331" y="1064" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
