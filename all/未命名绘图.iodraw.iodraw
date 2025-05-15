@@ -74,14 +74,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FbLDkqJC01L2oR5Jg63y-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0;rounded=0;fontSize=18;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FbLDkqJC01L2oR5Jg63y-3" target="FbLDkqJC01L2oR5Jg63y-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="639" y="652" />
-              <mxPoint x="690" y="680" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FbLDkqJC01L2oR5Jg63y-10" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FbLDkqJC01L2oR5Jg63y-4" target="FbLDkqJC01L2oR5Jg63y-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
