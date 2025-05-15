@@ -69,17 +69,16 @@
         <mxCell id="FbLDkqJC01L2oR5Jg63y-7" value="计算FPS" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1216.5" y="880" width="117" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FbLDkqJC01L2oR5Jg63y-8" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0.59;exitY=0.01;entryX=0;entryY=0.5;rounded=0;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FbLDkqJC01L2oR5Jg63y-2" target="FbLDkqJC01L2oR5Jg63y-3" edge="1">
+        <mxCell id="FbLDkqJC01L2oR5Jg63y-8" value="" style="curved=0;startArrow=none;endArrow=block;exitX=0;exitY=0.25;entryX=0;entryY=0.5;rounded=0;fontSize=18;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FbLDkqJC01L2oR5Jg63y-2" target="FbLDkqJC01L2oR5Jg63y-3" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="410" y="760" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FbLDkqJC01L2oR5Jg63y-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.27;entryY=0;rounded=0;fontSize=18;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FbLDkqJC01L2oR5Jg63y-3" target="FbLDkqJC01L2oR5Jg63y-4" edge="1">
+        <mxCell id="FbLDkqJC01L2oR5Jg63y-9" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0;rounded=0;fontSize=18;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="FbLDkqJC01L2oR5Jg63y-3" target="FbLDkqJC01L2oR5Jg63y-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="639" y="652" />
+              <mxPoint x="690" y="680" />
             </Array>
           </mxGeometry>
         </mxCell>
