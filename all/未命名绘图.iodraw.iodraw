@@ -56,7 +56,7 @@
           <mxGeometry x="630" y="790" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-8" value="初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="481" y="1064" width="142" height="55" as="geometry" />
+          <mxGeometry x="466" y="1064" width="149" height="62.5" as="geometry" />
         </mxCell>
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-9" value="创建Three.js&#xa;    场景对象" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="635" y="959" width="153" height="66" as="geometry" />
