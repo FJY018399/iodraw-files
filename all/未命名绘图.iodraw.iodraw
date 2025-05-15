@@ -51,8 +51,8 @@
         <mxCell id="FbLDkqJC01L2oR5Jg63y-2" value="浏览器刷新周期 (16.7ms)" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="45" y="797" width="240" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="FbLDkqJC01L2oR5Jg63y-3" value="requestAnimation&#xa;Frame触发" style="rhombus;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="335" y="525" width="254" height="165" as="geometry" />
+        <mxCell id="FbLDkqJC01L2oR5Jg63y-3" value="requestAnimation&#xa;Frame触发" style="rhombus;strokeWidth=2;fontSize=13;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="335" y="570" width="254" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FbLDkqJC01L2oR5Jg63y-4" value="检查组件是否就绪" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="664" y="695" width="188" height="49" as="geometry" />
