@@ -56,13 +56,13 @@
           <mxGeometry x="630" y="790" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-8" value="初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="453" y="957.5" width="147" height="69" as="geometry" />
+          <mxGeometry x="442" y="957.5" width="104" height="69" as="geometry" />
         </mxCell>
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-9" value="创建Three.js&#xa;    场景对象" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="635" y="959" width="153" height="66" as="geometry" />
         </mxCell>
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-10" value="配置透视相&#xa;    机" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="831" y="959" width="140" height="66" as="geometry" />
+          <mxGeometry x="635" y="1078" width="140" height="66" as="geometry" />
         </mxCell>
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-11" value="初始化&#xa;    WebGL渲染&#xa;    器" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1022" y="950" width="143" height="84" as="geometry" />
