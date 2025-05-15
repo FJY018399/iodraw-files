@@ -82,10 +82,13 @@
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-16" value="启动渲染循&#xa;    环" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="436" y="1514" width="140" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="OLTbV2rgcrgd2kZf_-Um-28" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="253" y="974" width="126" height="60" as="geometry" />
+        <mxCell id="OLTbV2rgcrgd2kZf_-Um-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OLTbV2rgcrgd2kZf_-Um-28" target="OLTbV2rgcrgd2kZf_-Um-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OLTbV2rgcrgd2kZf_-Um-36" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="OLTbV2rgcrgd2kZf_-Um-28" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="255" y="986" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OLTbV2rgcrgd2kZf_-Um-36" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;初始化完成&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="243" y="1520" width="132" height="64" as="geometry" />
         </mxCell>
       </root>
