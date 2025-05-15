@@ -52,7 +52,7 @@
           <mxGeometry x="45" y="797" width="240" height="49" as="geometry" />
         </mxCell>
         <mxCell id="FbLDkqJC01L2oR5Jg63y-3" value="requestAnimationFrame触发" style="rhombus;strokeWidth=2;whiteSpace=wrap;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="335" y="525" width="254" height="254" as="geometry" />
+          <mxGeometry x="335" y="525" width="254" height="235" as="geometry" />
         </mxCell>
         <mxCell id="FbLDkqJC01L2oR5Jg63y-4" value="检查组件是否就绪" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="664" y="695" width="188" height="49" as="geometry" />
