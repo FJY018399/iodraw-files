@@ -59,7 +59,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-8" value="初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="253" y="1105" width="130" height="69" as="geometry" />
+          <mxGeometry x="253" y="1106" width="130" height="69" as="geometry" />
         </mxCell>
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OLTbV2rgcrgd2kZf_-Um-9" target="OLTbV2rgcrgd2kZf_-Um-10">
           <mxGeometry relative="1" as="geometry" />
@@ -67,8 +67,14 @@
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-9" value="创建Three.js&#xa;    场景对象" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="436" y="1108" width="153" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="OLTbV2rgcrgd2kZf_-Um-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OLTbV2rgcrgd2kZf_-Um-10" target="OLTbV2rgcrgd2kZf_-Um-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-10" value="配置透视相&#xa;    机" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="659.5" y="1108" width="153" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="OLTbV2rgcrgd2kZf_-Um-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OLTbV2rgcrgd2kZf_-Um-11" target="OLTbV2rgcrgd2kZf_-Um-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-11" value="初始化&#xa;    WebGL渲染&#xa;    器" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="659.5" y="1258" width="149.5" height="72" as="geometry" />
