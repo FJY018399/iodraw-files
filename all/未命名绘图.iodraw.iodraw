@@ -55,8 +55,14 @@
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="630" y="790" width="40" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="OLTbV2rgcrgd2kZf_-Um-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OLTbV2rgcrgd2kZf_-Um-8" target="OLTbV2rgcrgd2kZf_-Um-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-8" value="初始化" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="253" y="1108" width="130" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="OLTbV2rgcrgd2kZf_-Um-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="OLTbV2rgcrgd2kZf_-Um-9" target="OLTbV2rgcrgd2kZf_-Um-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OLTbV2rgcrgd2kZf_-Um-9" value="创建Three.js&#xa;    场景对象" style="whiteSpace=wrap;strokeWidth=2;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="436" y="1108" width="153" height="66" as="geometry" />
