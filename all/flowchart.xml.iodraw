@@ -39,6 +39,41 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tv-Pp9sIY2b9aUUpJMNy-9" value="射线投射检测" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="90" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tv-Pp9sIY2b9aUUpJMNy-10" value="对象层次遍历" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="189" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tv-Pp9sIY2b9aUUpJMNy-11" value="状态管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="36" y="287" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tv-Pp9sIY2b9aUUpJMNy-12" value="UI响应" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="45" y="386" width="107" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tv-Pp9sIY2b9aUUpJMNy-13" value="悬浮效果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="36" y="484" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="tv-Pp9sIY2b9aUUpJMNy-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tv-Pp9sIY2b9aUUpJMNy-9" target="tv-Pp9sIY2b9aUUpJMNy-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tv-Pp9sIY2b9aUUpJMNy-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tv-Pp9sIY2b9aUUpJMNy-10" target="tv-Pp9sIY2b9aUUpJMNy-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tv-Pp9sIY2b9aUUpJMNy-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tv-Pp9sIY2b9aUUpJMNy-11" target="tv-Pp9sIY2b9aUUpJMNy-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tv-Pp9sIY2b9aUUpJMNy-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tv-Pp9sIY2b9aUUpJMNy-12" target="tv-Pp9sIY2b9aUUpJMNy-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
