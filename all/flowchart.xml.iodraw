@@ -17,7 +17,7 @@
           <mxGeometry x="45" y="377" width="107" height="49" as="geometry" />
         </mxCell>
         <mxCell id="tv-Pp9sIY2b9aUUpJMNy-13" value="悬浮效果" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="36" y="484" width="124" height="49" as="geometry" />
+          <mxGeometry x="36" y="454" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="tv-Pp9sIY2b9aUUpJMNy-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="tv-Pp9sIY2b9aUUpJMNy-9" target="tv-Pp9sIY2b9aUUpJMNy-10">
           <mxGeometry relative="1" as="geometry">
